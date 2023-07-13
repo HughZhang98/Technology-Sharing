@@ -1,4 +1,4 @@
-# technology-sharing
+# Vue.js - Technology-sharing Mobile App
 
 ## Project setup
 ```
